@@ -9,10 +9,10 @@ Recognizing Digits with Neural Networks
 3. navigate into the folder with the above files
 
 4. type ```runMultiClassLogisticRegressionNeuralNetwork``` in Octave or Matlab command line to see an example of a trained 
-2 layer neural network to recognize hand written digits with 95% success rate.
+2 layer neural network to recognize MNIST hand written digits with 95% success rate.
 
 5. type ```runMultiClassNeuralNetworkWith3Layers``` in Octave or Matlab command line to see an example of a trained 
-3 layer neural network to recognize hand written digits with 97% sucess rate.
+3 layer neural network to recognize MNIST hand written digits with 97% sucess rate.
 
 <h2>Neural Network Review</h2>
   - Why a new non-linear hypotheses?
