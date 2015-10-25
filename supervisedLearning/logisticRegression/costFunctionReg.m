@@ -34,7 +34,7 @@ for i = 1:numberOfTrainingExamples
 	% hypothesis = mx1 column vector
 	% y = mx1 column vector
 	% X = mxn matrix
-	gradient = gradient + ( hypothesis(i) - y(i) ) * X(i, :)';
+	gradient += ( hypothesis(i) - y(i) ) * X(i, :)';
 end
 
 gradientRegularizationTerm = lambda/numberOfTrainingExamples * [0; theta(2:end)]; 
