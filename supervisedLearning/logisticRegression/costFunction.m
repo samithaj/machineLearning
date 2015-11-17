@@ -30,10 +30,10 @@ for i = 1:numberOfTrainingExamples
 	% hypothesis = mx1 column vector
 	% y = mx1 column vector
 	% X = mxn matrix
-	gradient += ( hypothesis(i) - y(i) ) * X(i, :)';
+	gradient = gradient + ( hypothesis(i) - y(i) ) * X(i, :)';
 end
 
 % gradient = nx1 column vector
-gradient *= (1/numberOfTrainingExamples);
+gradient = (1/numberOfTrainingExamples) * gradient;
 
 end
