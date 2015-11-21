@@ -2,7 +2,7 @@ Machine Learning
 ================
 
 The majority of the material here was created while taking Andrew Ng's free online 
-[Machine Learning class](https://www.coursera.org/course/ml) which I highly recommend!
+[Machine Learning class](https://www.coursera.org/learn/machine-learning) which I highly recommend!
 
 *"A computer program is said to learn from experience E with respect to some task 
 T and some performance measure P, if its performance on T, as measured by P, improves with experience E."*
