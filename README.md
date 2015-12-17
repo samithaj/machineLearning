@@ -35,6 +35,3 @@ check out this project I started called [wAlnut](https://github.com/WalnutiQ/wAl
       - [learningWithBackpropagation](./unsupervisedLearning/neuralNetworks/learningWithBackpropagation)
 
   - README.md = the file you are reading right now
-
-===================================================================
-Feel free to e-mail me at quinnliu@vt.edu for any questions. Enjoy!
