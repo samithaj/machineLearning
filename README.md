@@ -1,8 +1,5 @@
 Machine Learning
 ================
-<b>IMPORTANT NOTE:</b> If you are interested in building intelligent machines based on biological computation principles please
-check out this project I started called [wAlnut](https://github.com/WalnutiQ/wAlnut).
-
 The majority of the material here was created while taking Andrew Ng's free online 
 [Machine Learning class](https://www.coursera.org/learn/machine-learning) which I highly recommend!
 
